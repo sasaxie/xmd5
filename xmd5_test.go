@@ -1,8 +1,8 @@
 package xmd5
 
 import (
-	"testing"
 	"log"
+	"testing"
 )
 
 func TestGetStringMD5(t *testing.T) {
